@@ -122,15 +122,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: https://anvitha-s.github.io/test-website
 - title: Elements
-  url: /elements/
+  url: https://anvitha-s.github.io/test-website/elements/
 - title: Blog
-  url: /blog/
+  url: https://anvitha-s.github.io/test-website/blog/
 - title: Categories
-  url: /categories/
+  url: https://anvitha-s.github.io/test-website/categories/
 - title: Search
-  url: /search/
+  url: https://anvitha-s.github.io/test-website/search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
 
